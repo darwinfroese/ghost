@@ -1,2 +1,2 @@
 # ghost
-A golang testing framework.
+A golang testing framework

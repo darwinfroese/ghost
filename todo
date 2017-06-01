@@ -1,0 +1,3 @@
+- mock should count calls to each function
+- web should allow for forcing certain error codes
+- allow specifing responses and resonse data
